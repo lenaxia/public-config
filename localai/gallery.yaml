@@ -24,7 +24,8 @@
       uri: huggingface://bartowski/Qwen2.5-14B-Instruct-GGUF/Qwen2.5-14B-Instruct-Q4_K_M.gguf
 - name: "qwen2.5-32b-instruct-q6-k"
   url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
-  license: apache-2.0                                                                                                                                         description: |
+  license: apache-2.0
+  description: |
     Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters.
   tags:
     - llm
@@ -45,7 +46,8 @@
       uri: huggingface://bartowski/Qwen2.5-32B-Instruct-GGUF/Qwen2.5-32B-Instruct-Q6_K.gguf
 - name: "qwen2.5-32b-instruct-q5-k-s"
   url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
-  license: apache-2.0                                                                                                                                         description: |
+  license: apache-2.0 
+  description: |
     Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters.
   tags:
     - llm
@@ -66,7 +68,8 @@
       uri: huggingface://bartowski/Qwen2.5-32B-Instruct-GGUF/Qwen2.5-32B-Instruct-Q5_K_S.gguf
 - name: "qwen2.5-32b-instruct-4-k-m"
   url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
-  license: apache-2.0                                                                                                                                         description: |
+  license: apache-2.0
+  description: |
     Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters.
   tags:
     - llm
@@ -87,7 +90,8 @@
       uri: huggingface://bartowski/Qwen2.5-32B-Instruct-GGUF/Qwen2.5-32B-Instruct-Q4_K_M.gguf
 - name: "qwen2.5-72b-instruct-q4-k-m"
   url: "github:mudler/LocalAI/gallery/chatml.yaml@master"
-  license: apache-2.0                                                                                                                                         description: |
+  license: apache-2.0
+  description: |
     Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters.
   tags:
     - llm
